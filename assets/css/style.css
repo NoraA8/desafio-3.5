@@ -1,0 +1,21 @@
+.button {
+  background-color: green;
+  color: whitesmoke;
+  border-radius: 0.2rem;
+  border-style: none;
+  height: 40px;
+}
+.list {
+  text-decoration: none;
+  list-style: none;
+  padding-left: 0;
+}
+a.link-delete {
+  text-decoration: none;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
+span {
+  padding-right: 2rem;
+}
